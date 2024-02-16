@@ -1,0 +1,85 @@
+body{
+  background-color: rgb(16, 16, 16);
+  
+}
+
+#menuSuperiorderecha nav ul{
+  display: flex;
+  font-size: 10px;
+  float: right;
+}
+#menuSuperiorderecha nav ul li{
+  list-style: none;
+  padding: 10px;
+}
+#menuSuperiorderecha nav ul li a{
+  text-decoration: none;
+  color: aliceblue;
+}
+#logoAmazonprime{
+  border-style: solid;
+  border-color: azure;
+}
+#logoNetflix{
+  border-style: solid;
+  border-color: azure;
+}
+#logoHbomax{
+  border-style: solid;
+  border-color: azure;
+}
+#logos{
+  display: flex;
+}
+#logos{
+  justify-content: center;
+}
+#logos{
+  justify-content: space-between;
+}
+#dispositivos img{
+  width: 350px;
+}
+#dispositivos{
+  display: flex;
+}
+#dispositivos h1{
+  color: aliceblue;
+}
+#dispositivos{
+  margin-bottom: 50px;
+}
+#comedia{
+  color: aliceblue;
+}
+#comedia{
+  justify-content:left;
+  display: flex;
+}
+#losserrano{
+  padding: 20px;
+}
+#comovenderdrogasonline{
+  padding: 20px;
+}
+#southpark{
+  padding: 20px;
+}
+.imglogo{
+  width: 400px;
+  height: 300px;
+}
+.imgpeliculas
+{
+  width: 400px;
+  height: 400px;
+}
+label, input, h1{
+  color: white;
+}
+table, td, th, h2, p{
+  color: white;
+}
+#acercade{
+  color: white;
+}
